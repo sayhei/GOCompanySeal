@@ -21,4 +21,4 @@ func main() {
 
 ```
 
-![image](https://github.com/sayhei/GOCompanySeal/seal.svg)
+![image](https://raw.githubusercontent.com/sayhei/GOCompanySeal/dd7ab472bf922204304d3bede1a9798bb27cd23b/seal.svg)

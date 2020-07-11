@@ -32,7 +32,7 @@ func GenerateSeal(companyName string) string{
 	s.DefEnd()
 	s.Circle(CIRCLE_X, CIRCLE_Y, 96, "fill:none;stroke-width:6;stroke:red")
 	s.Polygon(PentagramXs,PentagramYs,"fill:red;stroke:red;stroke-width:1;")
-	s.Textpath(companyName, "50%","#circle",`style="fill:red;font-size:25px;font-weight:800;font-family:STSong"`,`text-anchor="middle"`)
+	s.Textpath(companyName, "50%","#circle",`style="fill:red;font-size:20px;font-weight:800;font-family:STSong"`,`text-anchor="middle"`)
 	s.End()
 	return buf5.String()
 }

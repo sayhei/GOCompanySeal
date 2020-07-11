@@ -4,9 +4,9 @@
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <path d="M45,150 A74,74 0 1,1 155,150" id="circle" />
+        <path d="M50,150 A70,70 0 1,1 150,150" id="circle" />
     </defs>
     <circle cx="100" cy="100" r="96" style="fill:none;stroke-width:6;stroke:red" />
-    <polygon points="100,55 70,140 145,80 55,80 130,140" style="fill:red;stroke:red;stroke-width:1;" />
-    <text style="fill:red;" text-anchor="middle" ><textPath startOffset="50%" xlink:href="#circle">南京义途网络科技有限公司</textPath></text>
+    <polygon points="100,70 80,126 129,86 70,86 119,126" style="fill:red;stroke:red;stroke-width:1;" />
+    <text style="fill:red;font-size:25px;font-weight:800;font-family:STSong" text-anchor="middle" ><textPath startOffset="50%" xlink:href="#circle">南京义途网络科技有限公司</textPath></text>
 </svg>
